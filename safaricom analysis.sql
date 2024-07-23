@@ -16,7 +16,7 @@ change_percentage DECIMAL(5,4)
 SELECT * FROM stock_analysis.safaricom_stock_prices;
 
 # Descriptive Stats
--- Earliest and Latest Date, Count of records
+-- Earliest and Latest Date,
 SELECT
 	min(Date) AS earliest_date,
     max(Date) AS latest_date,
