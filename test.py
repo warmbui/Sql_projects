@@ -1,2 +1,2 @@
 print("Starting out git an github")
-print("hurray!")
+print("hey!")
